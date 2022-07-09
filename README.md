@@ -11,3 +11,4 @@
 
 ## 便利リンク
 - C21@wiki
+- [こーてつせんき・しぃ21 wiki風個人サイト Wiki](https://wikiwiki.jp/dora_c21/)
