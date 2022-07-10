@@ -24,3 +24,5 @@
 - [こーてつせんき・しぃ21 wiki風個人サイト Wiki](https://wikiwiki.jp/dora_c21/)
 - [がじゅズ！](http://c21boost.blog.fc2.com/)
 - [アーカイブでも、おとくだねっ！](https://www.scoopdane.net/)
+- [卍竹中のｃ２１大学卍](https://note.com/takenaka_c21)
+- [O･G](https://note.com/zerobreaker21)
