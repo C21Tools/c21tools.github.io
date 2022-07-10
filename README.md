@@ -1,6 +1,6 @@
 鋼鉄戦記C21に関する個人的なリンク集です。
 
-#個人リンク
+# 個人リンク
 ## 作ったもの
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21 Raid Battle Database](https://airtable.com/shr0hu8EeoSKYyUxh)
@@ -13,7 +13,7 @@
 - [Twitter](https://twitter.com/Take_at_c21)
 - [note](https://note.com/take_c21)
 
-#外部リンク
+# 外部リンク
 ## 公式
 - [公式ページ](https://www.c21-online.jp/home)
 - [公式Twitter](https://twitter.com/c21_koutetu)
