@@ -1,3 +1,5 @@
+個人的なリンク集
+
 ## 作ったもの
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21 Raid Battle Database](https://airtable.com/shr0hu8EeoSKYyUxh)
