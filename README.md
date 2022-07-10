@@ -1,4 +1,3 @@
-# 個人リンク
 ## 作ったもの
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21 Raid Battle Database](https://airtable.com/shr0hu8EeoSKYyUxh)
@@ -11,7 +10,6 @@
 - [Twitter](https://twitter.com/Take_at_c21)
 - [note](https://note.com/take_c21)
 
-# 外部リンク
 ## 攻略サイト
 - [C21@wiki](https://w.atwiki.jp/yuyutoton/)
 - [こーてつせんき・しぃ21 wiki風個人サイト Wiki](https://wikiwiki.jp/dora_c21/)
