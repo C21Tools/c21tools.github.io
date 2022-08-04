@@ -6,7 +6,7 @@
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21 Raid Battle Database](https://airtable.com/shr0hu8EeoSKYyUxh)
 - [C21 Robot database](https://airtable.com/shrzfyYLNHVs0ss0o)
-- [C21アセン画像結合ツール](https://share.streamlit.io/c21tools/ss_joint/main/main.py)
+- [C21アセン画像結合ツール](https://c21tools-ss-joint-main-28v0gk.streamlitapp.com)
 - [AURA対応パーツ一覧](https://c21database.notion.site/84bc364b57aa47248ec2e72b97aea6f1?v=b22e303f0a1e462fb578907ce42dfef5)
 - [C21課金キャンペーンまとめ](https://c21database.notion.site/88de9510def3427585e52f74b68fee04?v=2b62a4ec13464d50b6eb0a0d64dbd3f4)
 
