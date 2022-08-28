@@ -7,7 +7,7 @@
 - [C21 Raid Battle Database](https://airtable.com/shr0hu8EeoSKYyUxh)
 - [C21 Robot database](https://airtable.com/shrzfyYLNHVs0ss0o)
 - [C21アセン画像結合ツール](https://c21tools-ss-joint-main-28v0gk.streamlitapp.com)
-- [AURA対応パーツ一覧](https://c21database.notion.site/84bc364b57aa47248ec2e72b97aea6f1?v=b22e303f0a1e462fb578907ce42dfef5)
+- [AURA対応パーツ一覧](https://airtable.com/shromCNBmcW4S78cG)
 - [C21課金キャンペーンまとめ](https://c21database.notion.site/88de9510def3427585e52f74b68fee04?v=2b62a4ec13464d50b6eb0a0d64dbd3f4)
 
 ## SNS
@@ -26,3 +26,4 @@
 - [アーカイブでも、おとくだねっ！](https://www.scoopdane.net/)
 - [卍竹中のｃ２１大学卍](https://note.com/takenaka_c21)
 - [O･G](https://note.com/zerobreaker21)
+- [ファラオの落書き帳](https://misery-thread.blogspot.com/)
