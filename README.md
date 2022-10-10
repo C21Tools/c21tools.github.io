@@ -24,10 +24,10 @@
 - [こーてつせんき・しぃ21 wiki風個人サイト Wiki](https://wikiwiki.jp/dora_c21/)
 - [がじゅズ！](http://c21boost.blog.fc2.com/)
 - [アーカイブでも、おとくだねっ！](https://www.scoopdane.net/)
-- [卍竹中のｃ２１大学卍(note)](https://note.com/takenaka_c21)
-- [O･G(note)](https://note.com/zerobreaker21)
+- [竹中さんのnote（卍竹中のｃ２１大学卍）](https://note.com/takenaka_c21)
+- [O･Gさんのnote)](https://note.com/zerobreaker21)
 - [ファラオの落書き帳](https://misery-thread.blogspot.com/)
-- [BAGBAG(note)](https://note.com/bagbag_8ag8ag/)
+- [BAGBAGさんのnote](https://note.com/bagbag_8ag8ag/)
 
 ## Discord
 - [鋼鉄戦記C21 スコディサーバー](https://discord.com/channels/1013837996048535676/1013837996581208076)
