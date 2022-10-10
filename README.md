@@ -25,7 +25,7 @@
 - [がじゅズ！](http://c21boost.blog.fc2.com/)
 - [アーカイブでも、おとくだねっ！](https://www.scoopdane.net/)
 - [竹中さんのnote（卍竹中のｃ２１大学卍）](https://note.com/takenaka_c21)
-- [O･Gさんのnote)](https://note.com/zerobreaker21)
+- [O･Gさんのnote](https://note.com/zerobreaker21)
 - [ファラオの落書き帳](https://misery-thread.blogspot.com/)
 - [BAGBAGさんのnote](https://note.com/bagbag_8ag8ag/)
 
