@@ -8,7 +8,7 @@
 - [C21ロボットデータベース（店売り、ガチャのみ）](https://airtable.com/shrzfyYLNHVs0ss0o)
 - [C21AURA対応パーツデータベース](https://airtable.com/shromCNBmcW4S78cG)
 - [C21アセン画像結合ツール](https://c21tools-ss-joint-main-28v0gk.streamlitapp.com)
-- [C21ログ集計ツール](https://c21tools-log-counter-main-r5dnu2.streamlitapp.com/)
+- [C21ログ集計ツール](https://c21tools-logcounter.streamlitapp.com/)
 - [C21課金キャンペーンまとめ](https://c21database.notion.site/88de9510def3427585e52f74b68fee04?v=2b62a4ec13464d50b6eb0a0d64dbd3f4)
 
 ## SNS
