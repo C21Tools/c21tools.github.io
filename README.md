@@ -33,3 +33,6 @@
 ## Discord
 - [鋼鉄戦記C21 スコディサーバー](https://discord.com/channels/1013837996048535676/1013837996581208076)
 - [C21-初心者支援コミュニティ(閉鎖・データのみ)](https://discord.com/channels/439847195496284161/439997607285358605)
+
+
+#### copyright(c) 2006 - 2023 CyberStep, Inc. All Rights Reserved.
