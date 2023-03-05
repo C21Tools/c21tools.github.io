@@ -9,6 +9,7 @@
 - [C21AURA対応パーツデータベース](https://airtable.com/shromCNBmcW4S78cG)
 - [C21アセン画像結合ツール](https://c21tools-ss-joint.streamlitapp.com/)
 - [C21ログ集計ツール](https://c21tools-logcounter.streamlitapp.com/)
+- [C21ロボット画像切り抜きツール](https://c21tools-roboimgtrim.streamlit.app/)
 - [C21課金キャンペーンまとめ](https://c21database.notion.site/88de9510def3427585e52f74b68fee04?v=2b62a4ec13464d50b6eb0a0d64dbd3f4)
 
 ## SNS
