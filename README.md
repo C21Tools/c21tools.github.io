@@ -1,5 +1,18 @@
 鋼鉄戦記C21に関する個人的なリンク集です。
 
+# 今週のイベント
+## アルバイター
+<table>
+  <tr>
+    <th>アイテム</th><th>報酬</th><th>Rank</th>
+  </tr>
+  <tr>
+    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+  </tr>
+  <tr>
+    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  </tr>
+</table>
 
 # 個人リンク
 ## 作ったもの
