@@ -3,15 +3,36 @@
 # 今週のイベント
 ## アルバイター
 <table>
-  <tr>
-    <th>アイテム</th><th>報酬</th><th>Rank</th>
-  </tr>
-  <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
-  </tr>
+  <tbody>
+    <tr align="center">
+      <td><b>必要アイテム</b></td>
+      <td><b>報酬品</b></td>
+    </tr>
+    <tr align="center">
+      <td>リペアパック250 1個</td>
+      <td>ターンエア1080HD</td>
+    </tr>
+    <tr align="center">
+      <td>ENパック1000 1個</td>
+      <td>ターンエア1080BS</td>
+    </tr>
+    <tr align="center">
+      <td>リペアパック500 1個</td>
+      <td>ターンエア1080LG</td>
+    </tr>
+    <tr align="center">
+      <td>コールタール 1個</td>
+      <td>ターンエア1080AM 2個</td>
+    </tr>
+    <tr align="center">
+      <td>ソーラー装甲 1個</td>
+      <td>ターンエア1080BD</td>
+    </tr>
+    <tr align="center">
+      <td>制覇の証・ピアトロ</td>
+      <td>チューニングミスト50</td>
+    </tr>
+  </tbody>
 </table>
 
 # 個人リンク
