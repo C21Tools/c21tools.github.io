@@ -12,8 +12,8 @@
 <table>
   <tr>
     <th>ダンジョン</th>
-    <th></th>
-    <th></th>
+    <th>　　　　　</th>
+    <th>　　　　　</th>
   </tr>
   <tr>
     <td>ピアトロ</td>
