@@ -12,8 +12,8 @@
 <table>
   <tr>
     <th>ダンジョン</th>
-    <th>　　　　　</th>
-    <th>　　　　　</th>
+    <th>　</th>
+    <th>　</th>
   </tr>
   <tr>
     <td>ピアトロ</td>
@@ -23,9 +23,9 @@
 </table>
 <table>
   <tr>
-    <th>土曜日</th>
-    <th>日曜日</th>
-    <th>月曜日</th>
+    <th>土曜</th>
+    <th>日曜</th>
+    <th>月曜</th>
   </tr>
   <tr>
     <td>カンビ深部</td>
