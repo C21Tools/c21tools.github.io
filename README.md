@@ -11,9 +11,9 @@
 </table>
 <table>
   <tr>
-    <th>ダンジョン1</th>
-    <th>ダンジョン2</th>
-    <th>ダンジョン3</th>
+    <th>ダンジョン</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>ピアトロ</td>
