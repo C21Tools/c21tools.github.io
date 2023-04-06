@@ -6,7 +6,7 @@
     <th>アルバイター</th>
   </tr>
   <tr>
-    <td>ジオ</td>  
+    <td>ポルド</td>  
   </tr>
 </table>
 <table>
@@ -18,7 +18,7 @@
   <tr>
     <td>ポルド</td>
     <td>カンビ</td>
-    <td>ジオ</td>
+    <td>ピアトロ</td>
   </tr>
 </table>
 <table>
@@ -29,8 +29,8 @@
   </tr>
   <tr>
     <td>フルビ深部</td>
-    <td>ピアトロ深部</td>
-    <td>崩壊ポイーン</td>
+    <td>ジオ深部</td>
+    <td>河童ゲルニア</td>
   </tr>
 </table>
 
