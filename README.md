@@ -6,7 +6,7 @@
     <th>アルバイター</th>
   </tr>
   <tr>
-    <td>カンビ</td>  
+    <td>フルビ</td>  
   </tr>
 </table>
 <table>
@@ -18,7 +18,7 @@
   <tr>
     <td>ポルド</td>
     <td>フルビ</td>
-    <td>ピアトロ</td>
+    <td>ジオ</td>
   </tr>
 </table>
 <table>
@@ -29,8 +29,8 @@
   </tr>
   <tr>
     <td>カンビ深部</td>
-    <td>ジオ深部</td>
-    <td>砂雪デゴ</td>
+    <td>ピアトロ深部</td>
+    <td>密林ゲルニア</td>
   </tr>
 </table>
 
