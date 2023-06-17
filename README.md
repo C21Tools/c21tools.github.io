@@ -38,7 +38,7 @@
 ## 作ったもの
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21レイドボス出現情報履歴データベース](https://airtable.com/shr0hu8EeoSKYyUxh)
-- [C21ロボットデータベース（店売り、ガチャのみ）](https://airtable.com/shrzfyYLNHVs0ss0o)
+- [C21ロボットデータベース（店売り、ガチャのみ）(2023/6/17更新)](https://airtable.com/shrzfyYLNHVs0ss0o)
 - [C21AURA対応パーツデータベース](https://airtable.com/shromCNBmcW4S78cG)
 - [C21アセン画像結合ツール](https://c21tools-ss-joint.streamlitapp.com/)
 - [C21ログ集計ツール(2023/5/21更新)](https://c21tools-logcounter.streamlitapp.com/)
