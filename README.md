@@ -1,12 +1,12 @@
 鋼鉄戦記C21に関する個人的なリンク集です。
 
-# 今週のイベント（2023/8/10～）
+# 今週のイベント（2023/8/17～）
 <table>
   <tr>
     <th>アルバイター</th>
   </tr>
   <tr>
-    <td>フルビ</td>  
+    <td>ピアトロ</td>  
   </tr>
 </table>
 <table>
@@ -18,7 +18,7 @@
   <tr>
     <td>ポルド</td>
     <td>フルビ</td>
-    <td>ピアトロ</td>
+    <td>ジオ</td>
   </tr>
 </table>
 <table>
@@ -29,8 +29,8 @@
   </tr>
   <tr>
     <td>カンビ深部</td>
-    <td>ジオ深部</td>
-    <td>砂雪デゴ</td>
+    <td>ピアトロ深部</td>
+    <td>密林ゲルニア</td>
   </tr>
 </table>
 
@@ -38,8 +38,8 @@
 ## 作ったもの
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21レイドボス出現情報履歴データベース](https://airtable.com/shr0hu8EeoSKYyUxh)
-- [C21ロボットデータベース（店売り、ガチャのみ）(2023/8/3更新)](https://airtable.com/shrzfyYLNHVs0ss0o)
-- [C21パーツデータベース(2023/8/13更新)](https://airtable.com/appuf9DYawoX4iy6U/shrGynySgJzx5VwgM)
+- [C21ロボットデータベース（店売り、ガチャのみ）(2023/8/12更新)](https://airtable.com/shrzfyYLNHVs0ss0o)
+- [C21パーツデータベース(2023/8/19更新)](https://airtable.com/appuf9DYawoX4iy6U/shrGynySgJzx5VwgM)
   使い方は[C21パーツデータベースについて](partsdb.md)を参照
 - [C21アセン画像結合ツール](https://c21tools-ss-joint.streamlitapp.com/)
 - [C21ログ集計ツール(2023/6/18更新)](https://c21tools-logcounter.streamlitapp.com/)
