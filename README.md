@@ -1,6 +1,6 @@
 鋼鉄戦記C21に関する個人的なリンク集です。
 
-# 今週のイベント（2023/10/5～）
+# 今週のイベント（2023/10/05～）
 <table>
   <tr>
     <th>アルバイター</th>
@@ -42,7 +42,7 @@
 - [C21パーツデータベース(2023/09/06更新)](https://airtable.com/appuf9DYawoX4iy6U/shrGynySgJzx5VwgM)
   使い方は[C21パーツデータベースについて](partsdb.md)を参照
 - [C21アセン画像結合ツール](https://c21tools-ss-joint.streamlitapp.com/)
-- [C21ログ集計ツール(2023/09/08更新)](https://c21tools-logcounter.streamlitapp.com/)
+- [C21ログ集計ツール(2023/10/09更新)](https://c21tools-logcounter.streamlitapp.com/)
 - [C21ロボット画像切り抜きツール](https://c21tools-roboimgtrim.streamlit.app/)
 - [C21課金キャンペーンまとめ](https://c21database.notion.site/88de9510def3427585e52f74b68fee04?v=2b62a4ec13464d50b6eb0a0d64dbd3f4)
 
