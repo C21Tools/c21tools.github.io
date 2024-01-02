@@ -17,7 +17,7 @@
 ## 作ったもの
 - [C21レイドボス出現情報 (非公式)](https://twitter.com/c21_info)
 - [C21レイドボス出現情報履歴データベース](https://airtable.com/shr0hu8EeoSKYyUxh)
-- [C21ロボットデータベース（店売り、ガチャのみ）(2023/12/05更新)](https://airtable.com/shrzfyYLNHVs0ss0o)
+- [C21ロボットデータベース（店売り、ガチャのみ）(2024/01/02更新)](https://airtable.com/shrzfyYLNHVs0ss0o)
 - [C21パーツデータベース(2023/12/05更新)](https://airtable.com/appuf9DYawoX4iy6U/shrGynySgJzx5VwgM)
   使い方は[C21パーツデータベースについて](partsdb.md)を参照
 - [C21アセン画像結合ツール(2023/11/10更新)](https://c21tools-ss-joint.streamlitapp.com/)
@@ -31,8 +31,8 @@
 
 # 外部リンク
 ## 公式
-- [公式ページ](https://www.c21-online.jp/home)
-- [公式Twitter](https://twitter.com/c21_koutetu)
+- [公式サイト](https://www.c21-online.jp/home)
+- [公式X](https://twitter.com/c21_koutetu)
 
 ## 攻略サイト
 - [C21@wiki](https://w.atwiki.jp/yuyutoton/)
@@ -49,4 +49,4 @@
 - [C21-初心者支援コミュニティ(閉鎖・データのみ)](https://discord.com/channels/439847195496284161/439997607285358605)
 
 
-#### copyright(c) 2006 - 2023 CyberStep, Inc. All Rights Reserved.
+#### copyright(c) 2006 - 2024 CyberStep, Inc. All Rights Reserved.
